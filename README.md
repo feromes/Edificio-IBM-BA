@@ -21,7 +21,7 @@ individual para longos trajetos, feita a partir do modelo 3D realizado com a
 nuvem de pontos 3D da Cidade de São Paulo e disponível para ser visualizada com dispositivos
 de realidade virtual
 
-* [](https://sketchfab.com/3d-models/parque-copan-ddfa8cf8aafa4d619e429d9e653ffe81)
-* [](https://sketchfab.com/3d-models/avenida-paulista-4aa34e22718b48b79530dcb96fd8af56)
-* [](https://sketchfab.com/3d-models/paraisopolis-favela-ea359ba3483e49da83fc9d707987b48c)
+* [https://sketchfab.com/3d-models/parque-copan-ddfa8cf8aafa4d619e429d9e653ffe81](https://sketchfab.com/3d-models/parque-copan-ddfa8cf8aafa4d619e429d9e653ffe81)
+* [https://sketchfab.com/3d-models/avenida-paulista-4aa34e22718b48b79530dcb96fd8af56](https://sketchfab.com/3d-models/avenida-paulista-4aa34e22718b48b79530dcb96fd8af56)
+* [https://sketchfab.com/3d-models/paraisopolis-favela-ea359ba3483e49da83fc9d707987b48c](https://sketchfab.com/3d-models/paraisopolis-favela-ea359ba3483e49da83fc9d707987b48c)
 

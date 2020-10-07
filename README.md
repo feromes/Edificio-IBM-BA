@@ -10,6 +10,10 @@ Este repositório tem o objetivo de compartilhar material e ser um canal de comu
 * [CloudCompare](https://www.danielgm.net/cc/) - para nuvem de pontos
 * [Blender 3D](https://www.blender.org/) - para estudos volumétricos, e muito mais ...
 
+## Apresentação do dia 07/10/2020
+
+* [Complexidade na Cidade](https://feromes.github.io/Digressao-da-Complexidade-Morfologica/presentation/index_final.html)
+
 ## Referências
 
 ### Trabalhando com LiDAR para estudos Volumétricos
